@@ -1,0 +1,9 @@
+# Node modules
+/node_modules/
+
+# Environment files
+.env
+.env.*
+
+# Optional: Ignore specific envs if needed
+# !.env.example   # Uncomment this if you have a template you want to keep in git
